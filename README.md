@@ -1,7 +1,7 @@
 # UCL Dissertation 24/25
 
 This repository contains the codebase for my dissertation project.  
-It includes scripts for scraping, cleaning, transforming, and analyzing financial and textual data.
+It includes scripts for scraping, cleaning, transforming, and analysing financial and textual data.
 
 ---
 
