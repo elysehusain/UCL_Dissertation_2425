@@ -5,7 +5,7 @@ It includes scripts for scraping, cleaning, transforming, and analyzing financia
 
 ---
 
-## 📂 Scripts Overview
+## Scripts Overview
 
 - **CPI_surprise.py**  
   Calculates CPI surprises using Reuters & ONS data.  
